@@ -1,3 +1,4 @@
+'use client'
 import React, { useState } from 'react';
 import { PlusCircle, Trash2, FileText } from 'lucide-react';
 import { Button } from '@/components/ui/button';
